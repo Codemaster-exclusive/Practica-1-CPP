@@ -1,5 +1,5 @@
-# Practica-1-CPP
-3 Valores tipo FLOAT que se impriman en pantalla
+//# Practica-1-CPP
+//3 Valores tipo FLOAT que se impriman en pantalla
 
 #include <iostream>
 
