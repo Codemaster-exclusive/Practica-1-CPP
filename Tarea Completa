@@ -1,0 +1,41 @@
+#include<iostream>
+using namespace std;
+	
+
+
+int main (int argc, char *argv[]) {
+	
+	//crear 3 variables tipo float, declarar valor e imprimir
+	float v1= 0.8651321564;
+	float v2= 0.5623031532;
+	float v3= 0.2520121456;
+	cout << v1 << endl << v2 << endl << v3<<endl;
+	
+	//Crear 3 variables de tipo char, asignar le valor e imprimir las con cout<<
+	char texto1 = 'A';
+	char texto2 = 'B';
+	char texto3 = 'C';
+	cout << texto1 <<endl <<texto2<<endl<< texto3<<endl;
+	
+	//Crear 3 variables de tipo double, asignar le valor e imprimir las con cout<< ;
+	double decigrande = 0.7562532799877798798799789;
+	double decigrandote = 0.541254638988799877798798799789;
+	double decigrandotote= 7.46513214685328988799877798798799789;
+	cout << decigrande <<endl <<decigrandote <<endl<< decigrandotote<<endl;
+	
+	//Crear 3 variables de tipo int, asignar le valor e imprimir las con cout<< ;  
+	int entero, entero2, entero3;
+	entero=10;
+	entero2=20;
+	entero3=30; 
+	cout << entero <<endl <<entero2<<endl<< entero3<<endl;
+	
+	//Crear 3 variables de tipo bool, asignar le valor e imprimir las con cout<< ;
+	bool quesi = true;
+	bool queno = false;
+	bool quenose= true;
+	cout << quesi <<endl << queno <<endl<< quenose <<endl;
+	
+	
+	return 0;
+}
